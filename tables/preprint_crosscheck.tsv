@@ -1,0 +1,12 @@
+claim	preprint_value	v0_value	v1_value	v0_match	v1_match	note
+hierarchy_levels	8	8	8	True	True	Preprint: annotations at eight levels of resolution.
+level_1_classes	13	12	13	False	True	Preprint architecture table versus encoder size and L*_out units.
+level_2_classes	91	90	91	False	True	Preprint architecture table versus encoder size and L*_out units.
+level_3_classes	209	207	209	False	True	Preprint architecture table versus encoder size and L*_out units.
+level_4_classes	313	311	313	False	True	Preprint architecture table versus encoder size and L*_out units.
+level_5_classes	355	353	355	False	True	Preprint architecture table versus encoder size and L*_out units.
+level_6_classes	374	372	374	False	True	Preprint architecture table versus encoder size and L*_out units.
+level_7_classes	380	378	380	False	True	Preprint architecture table versus encoder size and L*_out units.
+level_8_classes	382	380	382	False	True	Preprint architecture table versus encoder size and L*_out units.
+training_tissues	23		body_proper	False	False	23 tissues describes the training corpus. The released Cell Ontology map is organism-wide and uses Organ_Level only.
+unique_hierarchical_labels		445	447	False	False	Not a single preprint total. Head sizes count padded coarser labels again at deeper levels; this row is the count of distinct hierarchy nodes.

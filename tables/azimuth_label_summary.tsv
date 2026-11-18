@@ -1,0 +1,703 @@
+record_type	model_version	label	count
+unique_labels	v0	all_levels	445
+head_classes	v0	level_1	12
+head_classes	v0	level_2	90
+head_classes	v0	level_3	207
+head_classes	v0	level_4	311
+head_classes	v0	level_5	353
+head_classes	v0	level_6	372
+head_classes	v0	level_7	378
+head_classes	v0	level_8	380
+azimuth_broad	v0	Epithelial cell	139
+azimuth_broad	v0	Immune cell	120
+azimuth_broad	v0	Neuron	53
+azimuth_broad	v0	Fibroblast	52
+azimuth_broad	v0	Endothelial cell	18
+azimuth_broad	v0	Germ cell	16
+azimuth_broad	v0	Embryonic cell	13
+azimuth_broad	v0	Perivascular cell	11
+azimuth_broad	v0	Glial cell	10
+azimuth_broad	v0	Muscle cell	10
+azimuth_broad	v0	Doublet like cell	2
+azimuth_broad	v0	Adipocyte	1
+azimuth_medium	v0	Fibroblast	52
+azimuth_medium	v0	Immune cell|Lymphoid cell|T/NK cell|T cell	30
+azimuth_medium	v0	Neuron|Neuron of brain|Excitatory neuron	19
+azimuth_medium	v0	Endothelial cell	18
+azimuth_medium	v0	Neuron|Neuron of brain|Inhibitory neuron	16
+azimuth_medium	v0	Germ cell	16
+azimuth_medium	v0	Epithelial cell|Epithelial cell of breast	16
+azimuth_medium	v0	Epithelial cell|Epithelial cell of testis	15
+azimuth_medium	v0	Embryonic cell	13
+azimuth_medium	v0	Immune cell|Hematopoietic precursor cell	12
+azimuth_medium	v0	Epithelial cell|Epithelial cell of intestine	11
+azimuth_medium	v0	Epithelial cell|Epithelial cell of stomach	11
+azimuth_medium	v0	Immune cell|Myeloid cell|Macrophage	10
+azimuth_medium	v0	Epithelial cell|Epithelial cell of pancreas	10
+azimuth_medium	v0	Epithelial cell|Epithelial cell of ovary	9
+azimuth_medium	v0	Epithelial cell|Epithelial cell of thymus	8
+azimuth_medium	v0	Immune cell|Myeloid cell|Monocyte	8
+azimuth_medium	v0	Epithelial cell|Epithelial cell of skin	8
+azimuth_medium	v0	Epithelial cell|Epithelial cell of liver	7
+azimuth_medium	v0	Immune cell|Lymphoid cell|B cell	7
+azimuth_medium	v0	Immune cell|Myeloid cell|Dendritic cell	7
+azimuth_medium	v0	Epithelial cell|Epithelial cell of adrenal gland	6
+azimuth_medium	v0	Epithelial cell|Epithelial cell of eye	6
+azimuth_medium	v0	Immune cell|Myeloid cell|Granulocyte	6
+azimuth_medium	v0	Epithelial cell|Epithelial cell of lung	6
+azimuth_medium	v0	Muscle cell|Skeletal muscle cell	5
+azimuth_medium	v0	Perivascular cell|Pericyte	5
+azimuth_medium	v0	Epithelial cell|Epithelial cell of bladder	5
+azimuth_medium	v0	Neuron|Neuron of brain|Miscellaneous neuron	5
+azimuth_medium	v0	Immune cell|Lymphoid cell|T/NK cell|NK cell	5
+azimuth_medium	v0	Epithelial cell|Mesothelial cell	4
+azimuth_medium	v0	Perivascular cell|Vascular smooth muscle cell	4
+azimuth_medium	v0	Immune cell|Myeloid cell|Cycling myeloid cell	3
+azimuth_medium	v0	Immune cell|Lymphoid cell|T/NK cell|ILC	3
+azimuth_medium	v0	Glial cell|Astrocyte	3
+azimuth_medium	v0	Glial cell	3
+azimuth_medium	v0	Muscle cell|Cardiomyocyte|Ventricular cardiomyocyte	2
+azimuth_medium	v0	Immune cell|Erythrocyte/Megakaryocyte|Megakaryocyte|Platelet	2
+azimuth_medium	v0	Glial cell|Oligodendrocyte	2
+azimuth_medium	v0	Epithelial cell|Epithelial cell of lung|AT2	2
+azimuth_medium	v0	Immune cell|Lymphoid cell|B cell|PreB cell	2
+azimuth_medium	v0	Immune cell|Lymphoid cell|B cell|ProB cell	2
+azimuth_medium	v0	Immune cell|Lymphoid cell|T/NK cell|Cycling T/NK cell	2
+azimuth_medium	v0	Immune cell|Erythrocyte/Megakaryocyte|Red blood cell|Late hemoglobin+ erythroblast	2
+azimuth_medium	v0	Doublet like cell	2
+azimuth_medium	v0	Epithelial cell|Endocrine cell	1
+azimuth_medium	v0	Epithelial cell|Epithelial cell of gingiva	1
+azimuth_medium	v0	Neuron|Neuron of retina|Bipolar cell|PCP4L1+ bipolar cell	1
+azimuth_medium	v0	Neuron|Neuron of retina|Bipolar cell|Rod-bipolar cell	1
+azimuth_medium	v0	Neuron|Neuron of retina|Cone cell	1
+azimuth_medium	v0	Neuron|Neuron of retina|Ganglion cell	1
+azimuth_medium	v0	Neuron|Neuron of retina|Horizontal cell	1
+azimuth_medium	v0	Neuron|Neuron of retina|Rod cell	1
+azimuth_medium	v0	Perivascular cell|Cycling perivascular cell	1
+azimuth_medium	v0	Immune cell|Hematopoietic precursor cell|MEP	1
+azimuth_medium	v0	Immune cell|Erythrocyte/Megakaryocyte|Red blood cell|Early SOX4+ erythroblast	1
+azimuth_medium	v0	Immune cell|Erythrocyte/Megakaryocyte|Red blood cell|Intermediate EPCAM+ erythroblast	1
+azimuth_medium	v0	Immune cell|Erythrocyte/Megakaryocyte|Red blood cell	1
+azimuth_medium	v0	Immune cell|Hematopoietic precursor cell|CLP	1
+azimuth_medium	v0	Immune cell|Hematopoietic precursor cell|HSC	1
+azimuth_medium	v0	Immune cell|Cycling immune cell	1
+azimuth_medium	v0	Epithelial cell|Epithelial cell of lung|AT1	1
+azimuth_medium	v0	Immune cell|Myeloid cell|Monocyte/DC	1
+azimuth_medium	v0	Immune cell|Myeloid cell|Osteoclast	1
+azimuth_medium	v0	Muscle cell|Cardiomyocyte|Atrial cardiomyocyte	1
+azimuth_medium	v0	Epithelial cell|Epithelial cell of kidney|Renal epithelial cell - Loop of Henle	1
+azimuth_medium	v0	Epithelial cell|Epithelial cell of kidney|Renal epithelial cell - distal tubules	1
+azimuth_medium	v0	Epithelial cell|Epithelial cell of kidney|Renal epithelial cell - proximal tubules	1
+azimuth_medium	v0	Epithelial cell|Epithelial cell of kidney|Podocyte	1
+azimuth_medium	v0	Epithelial cell|Epithelial cell of kidney|Type A intercalated cell	1
+azimuth_medium	v0	Epithelial cell|Epithelial cell of kidney|Type B intercalated cell	1
+azimuth_medium	v0	Neuron|Neuron of retina|Amacrine cell	1
+azimuth_medium	v0	Neuron|Neuron of retina|Bipolar cell|Cone-OFF-bipolar cell	1
+azimuth_medium	v0	Neuron|Neuron of retina|Bipolar cell|Cone-ON-bipolar cell	1
+azimuth_medium	v0	Adipocyte	1
+azimuth_fine	v0	Fibroblast|CFD+MGP+ fibroblast	10
+azimuth_fine	v0	Germ cell|Spermatocyte	9
+azimuth_fine	v0	Epithelial cell|Epithelial cell of breast|Mammary luminal progenitor	6
+azimuth_fine	v0	Epithelial cell|Epithelial cell of stomach|Surface mucous cell	6
+azimuth_fine	v0	Epithelial cell|Epithelial cell of testis|Leydig cell	6
+azimuth_fine	v0	Epithelial cell|Epithelial cell of skin|Keratinocyte	6
+azimuth_fine	v0	Muscle cell|Skeletal muscle cell	5
+azimuth_fine	v0	Epithelial cell|Epithelial cell of bladder|Basal cell of bladder	5
+azimuth_fine	v0	Epithelial cell|Epithelial cell of ovary|Granulosa cell	5
+azimuth_fine	v0	Endothelial cell|Arterial EC	5
+azimuth_fine	v0	Perivascular cell|Pericyte	5
+azimuth_fine	v0	Immune cell|Hematopoietic precursor cell|MPP	4
+azimuth_fine	v0	Epithelial cell|Epithelial cell of liver|cholangiocyte	4
+azimuth_fine	v0	Endothelial cell|Capillary EC	4
+azimuth_fine	v0	Embryonic cell|Trophoblast|Cytotrophoblast	4
+azimuth_fine	v0	Germ cell|Oocyte	4
+azimuth_fine	v0	Epithelial cell|Epithelial cell of breast|Mammary luminal cell	4
+azimuth_fine	v0	Epithelial cell|Epithelial cell of breast|Mammary basal cell	4
+azimuth_fine	v0	Perivascular cell|Vascular smooth muscle cell	4
+azimuth_fine	v0	Immune cell|Myeloid cell|Granulocyte|Neutrophil|Neutrophil precursor	3
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|T cell|CD8 T cell|Memory CD8 T cell|GZMK CD8 T cell	3
+azimuth_fine	v0	Endothelial cell|Venous EC	3
+azimuth_fine	v0	Immune cell|Myeloid cell|Monocyte|CD14 monocyte	3
+azimuth_fine	v0	Epithelial cell|Epithelial cell of pancreas|Pancreatic ductal cell	3
+azimuth_fine	v0	Glial cell|Glial cell of brain|Astrocyte	3
+azimuth_fine	v0	Epithelial cell|Epithelial cell of thymus|Medullary thymic epithelial cell	3
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|ILC	3
+azimuth_fine	v0	Immune cell|Hematopoietic precursor cell|GMP	3
+azimuth_fine	v0	Epithelial cell|Epithelial cell of testis|Sertoli cell	3
+azimuth_fine	v0	Epithelial cell|Epithelial cell of intestine|Enterocyte	2
+azimuth_fine	v0	Immune cell|Lymphoid cell|B cell|B cell precursor|PreB cell	2
+azimuth_fine	v0	Immune cell|Myeloid cell|Macrophage|LYVE1 macrophage	2
+azimuth_fine	v0	Neuron|Neuron of brain|Excitatory neuron|Cortical excitatory neuron|Upper-layer excitatory neuron|L2/3 excitatory neuron	2
+azimuth_fine	v0	Neuron|Neuron of brain|Inhibitory neuron|MGE-derived inhibitory neuron|SST inhibitory neuron	2
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|NK cell|CD56 NK cell	2
+azimuth_fine	v0	Immune cell|Lymphoid cell|B cell|Plasma cell	2
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|T cell|CD4 T cell|Treg cell	2
+azimuth_fine	v0	Muscle cell|Cardiomyocyte|Ventricular cardiomyocyte	2
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|T cell|Double negative T cell	2
+azimuth_fine	v0	Immune cell|Lymphoid cell|B cell|B cell precursor|ProB cell	2
+azimuth_fine	v0	Fibroblast|CXCL+ fibroblast	2
+azimuth_fine	v0	Fibroblast|CDCA7+ fibroblast	2
+azimuth_fine	v0	Fibroblast|Metallothionein+ fibroblast	2
+azimuth_fine	v0	Fibroblast|MDK+NREP+ fibroblast	2
+azimuth_fine	v0	Immune cell|Erythrocyte/Megakaryocyte|Megakaryocyte|Platelet	2
+azimuth_fine	v0	Immune cell|Erythrocyte/Megakaryocyte|Red blood cell|Erythroblast|Late hemoglobin+ erythroblast	2
+azimuth_fine	v0	Germ cell|Primordial germ cell	2
+azimuth_fine	v0	Glial cell|Glial cell of brain|Oligodendrocyte	2
+azimuth_fine	v0	Glial cell|Glial cell of intestine	2
+azimuth_fine	v0	Epithelial cell|Epithelial cell of liver|Hepatocyte	2
+azimuth_fine	v0	Epithelial cell|Epithelial cell of testis|Peritubular myoid cell	2
+azimuth_fine	v0	Epithelial cell|Epithelial cell of lung|Multiciliated cell	2
+azimuth_fine	v0	Epithelial cell|Epithelial cell of lung|Alveolar epithelial cell|AT2	2
+azimuth_fine	v0	Embryonic cell|Trophoblast|Syncytiotrophoblast	2
+azimuth_fine	v0	Embryonic cell|Trophoblast|Extravillous trophoblast	2
+azimuth_fine	v0	Adipocyte	1
+azimuth_fine	v0	Embryonic cell|Mesodermal cell|ZEB2+ mesoderm	1
+azimuth_fine	v0	Embryonic cell|Trophoblast|INF-activated trophoblast	1
+azimuth_fine	v0	Endothelial cell|Cycling EC	1
+azimuth_fine	v0	Neuron|Neuron of retina|Bipolar cell|Cone-ON-bipolar cell	1
+azimuth_fine	v0	Neuron|Neuron of brain|Inhibitory neuron|CXCL14 inhibitory neuron	1
+azimuth_fine	v0	Neuron|Neuron of brain|Inhibitory neuron|Cerebellar inhibitory neuron|PAX2 inhibitory neuron	1
+azimuth_fine	v0	Neuron|Neuron of brain|Inhibitory neuron|Cerebellar inhibitory neuron|SCGN inhibitory neuron	1
+azimuth_fine	v0	Neuron|Neuron of brain|Inhibitory neuron|Medium spiny neurons|D1 medium spiny neuron	1
+azimuth_fine	v0	Neuron|Neuron of brain|Inhibitory neuron|Medium spiny neurons|D2 medium spiny neuron	1
+azimuth_fine	v0	Neuron|Neuron of brain|Inhibitory neuron|Medium spiny neurons|Eccentric medium spiny neuron	1
+azimuth_fine	v0	Neuron|Neuron of brain|Inhibitory neuron|Midbrain-derived inhibitory neuron	1
+azimuth_fine	v0	Neuron|Neuron of brain|Inhibitory neuron|PVALB inhibitory neuron	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of pancreas|Alpha cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of pancreas|Beta cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of pancreas|Epsilon cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of pancreas|Metallothionein+ epithelial cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of pancreas|PP cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of skin|Merkel cell carcinoma enriched epithelial cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of stomach|Chief cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of stomach|Delta cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of stomach|Enterochromaffin cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of stomach|SCGB2A1+ endocrine cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of lung|Airway basal cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of lung|Alveolar epithelial cell|AT1	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of lung|Club cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of lung|Neuroendocrine cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of ovary|AFP+ epithelial cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of ovary|CLDN3+ epithelial cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of testis|Luminal cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of testis|Sertoli and Interstitial cell common progenitor	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of testis|Supporting-like PAX8+ cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of thymus|Cortical thymic epithelial cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of thymus|Cycling thymic epithelial cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of thymus|Thymic ciliated cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of thymus|Thymic myoid cell	1
+azimuth_fine	v0	Epithelial cell|Mesothelial cell|CRABP1+ mesothelial cell	1
+azimuth_fine	v0	Epithelial cell|Mesothelial cell|Cycling mesothelial cell	1
+azimuth_fine	v0	Epithelial cell|Mesothelial cell|GATA4+ mesothelial cell	1
+azimuth_fine	v0	Fibroblast|ANGPTL7+NRP2+ fibroblast	1
+azimuth_fine	v0	Fibroblast|Adipose ITLN1 fibroblast	1
+azimuth_fine	v0	Fibroblast|C2orf40+ fibroblast	1
+azimuth_fine	v0	Fibroblast|C3+ fibroblast	1
+azimuth_fine	v0	Fibroblast|CCL11+ fibroblast	1
+azimuth_fine	v0	Fibroblast|CCL2+SFRP2+ fibroblast	1
+azimuth_fine	v0	Fibroblast|CD55+SEMA3C+ fibroblast	1
+azimuth_fine	v0	Fibroblast|CLU+ fibroblast	1
+azimuth_fine	v0	Fibroblast|Cycling fibroblast	1
+azimuth_fine	v0	Fibroblast|F3+ fibroblast	1
+azimuth_fine	v0	Fibroblast|FBLN2+APOD+ fibroblast	1
+azimuth_fine	v0	Fibroblast|FRZB+ fibroblast	1
+azimuth_fine	v0	Fibroblast|G0S2+PPP1R14A+ fibroblast	1
+azimuth_fine	v0	Fibroblast|GREB1+ fibroblast	1
+azimuth_fine	v0	Fibroblast|IGFBP1+ fibroblast	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of kidney|Renal epithelial cell - distal tubules	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of kidney|Renal epithelial cell - proximal tubules	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of kidney|Renal intercalated cell|Podocyte	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of kidney|Renal intercalated cell|Type A intercalated cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of kidney|Renal intercalated cell|Type B intercalated cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of lung|Aerocyte	1
+azimuth_fine	v0	Fibroblast|IGFBP6+APOD+ fibroblast	1
+azimuth_fine	v0	Fibroblast|IGFBP6+SFRP4+ fibroblast	1
+azimuth_fine	v0	Fibroblast|KCNN3+ fibroblast	1
+azimuth_fine	v0	Fibroblast|MMP1+ fibroblast	1
+azimuth_fine	v0	Fibroblast|Mesenchymal stromal cell	1
+azimuth_fine	v0	Fibroblast|Myofibroblast	1
+azimuth_fine	v0	Fibroblast|NR4A3 fibroblast	1
+azimuth_fine	v0	Fibroblast|PCOLCE2 fibroblast	1
+azimuth_fine	v0	Fibroblast|PLA2G2A+IGFBP4+APOC1+ fibroblast	1
+azimuth_fine	v0	Fibroblast|PLAC9+ fibroblast	1
+azimuth_fine	v0	Fibroblast|POSTN fibroblast	1
+azimuth_fine	v0	Fibroblast|RNASE1+ fibroblast	1
+azimuth_fine	v0	Fibroblast|SCN7A fibroblast	1
+azimuth_fine	v0	Fibroblast|SPARCL1+ fibroblast	1
+azimuth_fine	v0	Fibroblast|TCIM+NRG1+ fibroblast	1
+azimuth_fine	v0	Fibroblast|THY1+ fibroblast	1
+azimuth_fine	v0	Fibroblast|TNC fibroblast	1
+azimuth_fine	v0	Fibroblast|WISP2+ fibroblast	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of intestine|Enteroendocrine cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of intestine|Goblet cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of intestine|Microfold cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of intestine|Paneth cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of intestine|Squamous epithelial cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of intestine|Transit-amplifying cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of intestine|Tuft cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of kidney|Renal epithelial cell - Loop of Henle	1
+azimuth_fine	v0	Glial cell|Muller glia	1
+azimuth_fine	v0	Immune cell|Cycling immune cell	1
+azimuth_fine	v0	Immune cell|Erythrocyte/Megakaryocyte|Red blood cell|Erythroblast|Early SOX4+ erythroblast	1
+azimuth_fine	v0	Immune cell|Erythrocyte/Megakaryocyte|Red blood cell|Erythroblast|Intermediate EPCAM+ erythroblast	1
+azimuth_fine	v0	Immune cell|Erythrocyte/Megakaryocyte|Red blood cell|Fetal HBG+ erythrocyte	1
+azimuth_fine	v0	Immune cell|Hematopoietic precursor cell|CLP	1
+azimuth_fine	v0	Immune cell|Hematopoietic precursor cell|EoBaMa Progenitor	1
+azimuth_fine	v0	Immune cell|Hematopoietic precursor cell|HSC	1
+azimuth_fine	v0	Immune cell|Hematopoietic precursor cell|LMPP	1
+azimuth_fine	v0	Immune cell|Hematopoietic precursor cell|MEP	1
+azimuth_fine	v0	Immune cell|Hematopoietic precursor cell|MkP	1
+azimuth_fine	v0	Immune cell|Hematopoietic precursor cell|Pre-cDC	1
+azimuth_fine	v0	Immune cell|Hematopoietic precursor cell|Pre-pDC	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|B cell|B cell precursor|Pre-ProB cell	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|B cell|Cycling B	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|B cell|Germinal center B cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of eye|Ciliary body cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of eye|Corneal epithelial cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of eye|Epithelial cell of conjunctiva	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of eye|Eye melanocyte	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of eye|Retinal pigment epithelial cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of gingiva|Melanocyte	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of intestine|Colonocyte	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|B cell|Naive B cell	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|Cycling T/NK cell	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|Cycling T/NK cell|Cycling T cell	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|NK cell|CD16 NK cell	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|NK cell|Tissue-resident NK cell	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|T cell|Agonist T cell	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|T cell|CD4 T cell|GZMK cytotoxic CD4 T cell	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|T cell|CD4 T cell|KLRB1 cytotoxic CD4 T	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|T cell|CD4 T cell|Memory CD4 T cell	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|T cell|CD4 T cell|Naive CD4 T cell	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|T cell|CD4 T cell|Tfh cell	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|T cell|CD8 T cell|CD8aa+ T cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of adrenal gland|Steroidogenic cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of adrenal gland|Sympathoadrenal cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of adrenal gland|Sympathoblast	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of breast|Lactocyte	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|T cell|CD8 T cell|Memory CD8 T cell|CXCL13 exhausted CD8 T cell	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|T cell|CD8 T cell|Memory CD8 T cell|GZMB CD8 T cell	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|T cell|CD8 T cell|Memory CD8 T cell|KLRB1 CD8 T cell	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|T cell|CD8 T cell|Naive CD8 T cell	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|T cell|Cycling DN/DP T cell	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|T cell|Double positive T cell	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|T cell|INF-activated T cell	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|T cell|MAIT cell	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|T cell|Memory T cell	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|T cell|Naive T cell	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|T cell|abT (entry) cell	1
+azimuth_fine	v0	Immune cell|Lymphoid cell|T/NK cell|T cell|gdT cell	1
+azimuth_fine	v0	Immune cell|Myeloid cell|Cycling myeloid cell|G2/M phase myeloid cell	1
+azimuth_fine	v0	Immune cell|Myeloid cell|Cycling myeloid cell|S phase myeloid cell	1
+azimuth_fine	v0	Immune cell|Myeloid cell|Dendritic cell|ASDC	1
+azimuth_fine	v0	Immune cell|Myeloid cell|Dendritic cell|cDC|cDC1	1
+azimuth_fine	v0	Immune cell|Myeloid cell|Dendritic cell|cDC|cDC2	1
+azimuth_fine	v0	Immune cell|Myeloid cell|Dendritic cell|mregDC	1
+azimuth_fine	v0	Immune cell|Myeloid cell|Dendritic cell|pDC	1
+azimuth_fine	v0	Immune cell|Myeloid cell|Granulocyte|Mast cell	1
+azimuth_fine	v0	Immune cell|Myeloid cell|Granulocyte|Neutrophil	1
+azimuth_fine	v0	Immune cell|Myeloid cell|Macrophage|Cycling macrophage	1
+azimuth_fine	v0	Immune cell|Myeloid cell|Macrophage|DIAPH3+ macrophage	1
+azimuth_fine	v0	Immune cell|Myeloid cell|Macrophage|M1 macrophage	1
+azimuth_fine	v0	Immune cell|Myeloid cell|Macrophage|Tissue resident macrophage|Alveolar macrophage	1
+azimuth_fine	v0	Immune cell|Myeloid cell|Macrophage|Tissue resident macrophage|Hofbauer cell	1
+azimuth_fine	v0	Immune cell|Myeloid cell|Macrophage|Tissue resident macrophage|Microglia	1
+azimuth_fine	v0	Immune cell|Myeloid cell|Monocyte/DC	1
+azimuth_fine	v0	Immune cell|Myeloid cell|Monocyte|CD14/CD16 monocyte	1
+azimuth_fine	v0	Immune cell|Myeloid cell|Monocyte|CD16 monocyte	1
+azimuth_fine	v0	Immune cell|Myeloid cell|Monocyte|Placenta CAMP+ monocyte	1
+azimuth_fine	v0	Immune cell|Myeloid cell|Monocyte|Placenta defensin+ monocyte	1
+azimuth_fine	v0	Immune cell|Myeloid cell|Osteoclast	1
+azimuth_fine	v0	Muscle cell|Cardiomyocyte|Atrial cardiomyocyte	1
+azimuth_fine	v0	Neuron|Neuron of brain|Excitatory neuron|Amygdala excitatory neuron	1
+azimuth_fine	v0	Neuron|Neuron of brain|Excitatory neuron|Cortical excitatory neuron|Deep-layer excitatory neuron|L4 excitatory neuron	1
+azimuth_fine	v0	Neuron|Neuron of brain|Excitatory neuron|Cortical excitatory neuron|Deep-layer excitatory neuron|L5 excitatory neuron	1
+azimuth_fine	v0	Neuron|Neuron of brain|Excitatory neuron|Cortical excitatory neuron|Deep-layer excitatory neuron|L5/6 excitatory neuron	1
+azimuth_fine	v0	Neuron|Neuron of brain|Excitatory neuron|Cortical excitatory neuron|Deep-layer excitatory neuron|L5b excitatory neuron	1
+azimuth_fine	v0	Neuron|Neuron of brain|Excitatory neuron|Cortical excitatory neuron|Deep-layer excitatory neuron|L6 excitatory neuron	1
+azimuth_fine	v0	Neuron|Neuron of brain|Excitatory neuron|Cortical excitatory neuron|Deep-layer excitatory neuron|TSHZ2 L4/5 excitatory neuron	1
+azimuth_fine	v0	Neuron|Neuron of brain|Excitatory neuron|Hippocampal excitatory neurons|Hippocampal CA1-3 neuron	1
+azimuth_fine	v0	Neuron|Neuron of brain|Excitatory neuron|Hippocampal excitatory neurons|Hippocampal CA4 neuron	1
+azimuth_fine	v0	Neuron|Neuron of brain|Excitatory neuron|Hippocampal excitatory neurons|Hippocampal dentate gyrus neuron	1
+azimuth_fine	v0	Neuron|Neuron of brain|Excitatory neuron|PLCH1 L4/5 excitatory neuron	1
+azimuth_fine	v0	Neuron|Neuron of brain|Excitatory neuron|Pyramidal neuron	1
+azimuth_fine	v0	Neuron|Neuron of brain|Excitatory neuron|Thalamic excitatory neuron	1
+azimuth_fine	v0	Neuron|Neuron of brain|Inhibitory neuron|CGE-derived inhibitory neuron|SV2C inhibitory neuron	1
+azimuth_fine	v0	Endothelial cell|Endocardial cell	1
+azimuth_fine	v0	Endothelial cell|Endothelial‑mesenchymal transition EC	1
+azimuth_fine	v0	Endothelial cell|Lymphatic EC	1
+azimuth_fine	v0	Endothelial cell|Tip EC	1
+azimuth_fine	v0	Epithelial cell|Endocrine cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of adrenal gland|Capsular cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of adrenal gland|Chromaffin cell	1
+azimuth_fine	v0	Neuron|Neuron of brain|Inhibitory neuron|CGE-derived inhibitory neuron|VIP inhibitory neuron	1
+azimuth_fine	v0	Neuron|Neuron of brain|Miscellaneous neuron|Lower rhombic lip-derived neuron	1
+azimuth_fine	v0	Neuron|Neuron of brain|Miscellaneous neuron|Mammillary body neuron	1
+azimuth_fine	v0	Neuron|Neuron of brain|Miscellaneous neuron|Splatter neuron	1
+azimuth_fine	v0	Neuron|Neuron of brain|Miscellaneous neuron|Upper rhombic lip-derived neuron	1
+azimuth_fine	v0	Neuron|Neuron of retina|Amacrine cell	1
+azimuth_fine	v0	Neuron|Neuron of retina|Bipolar cell|Cone-OFF-bipolar cell	1
+azimuth_fine	v0	Doublet like cell|Fibroblast/Granulosa doublet like cell	1
+azimuth_fine	v0	Neuron|Neuron of retina|Bipolar cell|PCP4L1+ bipolar cell	1
+azimuth_fine	v0	Neuron|Neuron of retina|Bipolar cell|Rod-bipolar cell	1
+azimuth_fine	v0	Neuron|Neuron of retina|Cone cell	1
+azimuth_fine	v0	Neuron|Neuron of retina|Ganglion cell	1
+azimuth_fine	v0	Neuron|Neuron of retina|Horizontal cell	1
+azimuth_fine	v0	Neuron|Neuron of retina|Rod cell	1
+azimuth_fine	v0	Perivascular cell|Cycling perivascular cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of ovary|GABRP+ epithelial cell	1
+azimuth_fine	v0	Epithelial cell|Epithelial cell of pancreas|Acinar cell	1
+unique_labels	v1	all_levels	447
+head_classes	v1	level_1	13
+head_classes	v1	level_2	91
+head_classes	v1	level_3	209
+head_classes	v1	level_4	313
+head_classes	v1	level_5	355
+head_classes	v1	level_6	374
+head_classes	v1	level_7	380
+head_classes	v1	level_8	382
+azimuth_broad	v1	Epithelial cell	140
+azimuth_broad	v1	Immune cell	120
+azimuth_broad	v1	Neuron	53
+azimuth_broad	v1	Fibroblast	52
+azimuth_broad	v1	Endothelial cell	18
+azimuth_broad	v1	Germ cell	16
+azimuth_broad	v1	Embryonic cell	13
+azimuth_broad	v1	Perivascular cell	11
+azimuth_broad	v1	Glial cell	10
+azimuth_broad	v1	Muscle cell	10
+azimuth_broad	v1	Doublet like cell	2
+azimuth_broad	v1	Adipocyte	1
+azimuth_broad	v1	Unassigned	1
+azimuth_medium	v1	Fibroblast	52
+azimuth_medium	v1	Immune cell|Lymphoid cell|T/NK cell|T cell	30
+azimuth_medium	v1	Neuron|Neuron of brain|Excitatory neuron	19
+azimuth_medium	v1	Endothelial cell	18
+azimuth_medium	v1	Germ cell	16
+azimuth_medium	v1	Epithelial cell|Epithelial cell of breast	16
+azimuth_medium	v1	Neuron|Neuron of brain|Inhibitory neuron	16
+azimuth_medium	v1	Epithelial cell|Epithelial cell of testis	15
+azimuth_medium	v1	Embryonic cell	13
+azimuth_medium	v1	Immune cell|Hematopoietic precursor cell	12
+azimuth_medium	v1	Epithelial cell|Epithelial cell of intestine	11
+azimuth_medium	v1	Epithelial cell|Epithelial cell of stomach	11
+azimuth_medium	v1	Epithelial cell|Epithelial cell of pancreas	10
+azimuth_medium	v1	Immune cell|Myeloid cell|Macrophage	10
+azimuth_medium	v1	Epithelial cell|Epithelial cell of ovary	9
+azimuth_medium	v1	Epithelial cell|Epithelial cell of thymus	8
+azimuth_medium	v1	Immune cell|Myeloid cell|Monocyte	8
+azimuth_medium	v1	Epithelial cell|Epithelial cell of skin	8
+azimuth_medium	v1	Immune cell|Myeloid cell|Dendritic cell	7
+azimuth_medium	v1	Epithelial cell|Epithelial cell of liver	7
+azimuth_medium	v1	Immune cell|Lymphoid cell|B cell	7
+azimuth_medium	v1	Epithelial cell|Epithelial cell of lung	7
+azimuth_medium	v1	Immune cell|Myeloid cell|Granulocyte	6
+azimuth_medium	v1	Epithelial cell|Epithelial cell of eye	6
+azimuth_medium	v1	Epithelial cell|Epithelial cell of adrenal gland	6
+azimuth_medium	v1	Immune cell|Lymphoid cell|T/NK cell|NK cell	5
+azimuth_medium	v1	Perivascular cell|Pericyte	5
+azimuth_medium	v1	Muscle cell|Skeletal muscle cell	5
+azimuth_medium	v1	Epithelial cell|Epithelial cell of bladder	5
+azimuth_medium	v1	Neuron|Neuron of brain|Miscellaneous neuron	5
+azimuth_medium	v1	Perivascular cell|Vascular smooth muscle cell	4
+azimuth_medium	v1	Epithelial cell|Mesothelial cell	4
+azimuth_medium	v1	Immune cell|Myeloid cell|Cycling myeloid cell	3
+azimuth_medium	v1	Immune cell|Lymphoid cell|T/NK cell|ILC	3
+azimuth_medium	v1	Glial cell|Astrocyte	3
+azimuth_medium	v1	Glial cell	3
+azimuth_medium	v1	Epithelial cell|Epithelial cell of lung|AT2	2
+azimuth_medium	v1	Immune cell|Lymphoid cell|B cell|PreB cell	2
+azimuth_medium	v1	Glial cell|Oligodendrocyte	2
+azimuth_medium	v1	Immune cell|Lymphoid cell|T/NK cell|Cycling T/NK cell	2
+azimuth_medium	v1	Immune cell|Lymphoid cell|B cell|ProB cell	2
+azimuth_medium	v1	Immune cell|Erythrocyte/Megakaryocyte|Red blood cell|Erythroblast|Late hemoglobin+ erythroblast	2
+azimuth_medium	v1	Immune cell|Erythrocyte/Megakaryocyte|Megakaryocyte|Platelet	2
+azimuth_medium	v1	Doublet like cell	2
+azimuth_medium	v1	Muscle cell|Cardiomyocyte|Ventricular cardiomyocyte	2
+azimuth_medium	v1	Neuron|Neuron of retina|Horizontal cell	1
+azimuth_medium	v1	Neuron|Neuron of retina|Ganglion cell	1
+azimuth_medium	v1	Neuron|Neuron of retina|Cone cell	1
+azimuth_medium	v1	Neuron|Neuron of retina|Bipolar cell|Rod-bipolar cell	1
+azimuth_medium	v1	Neuron|Neuron of retina|Bipolar cell|PCP4L1+ bipolar cell	1
+azimuth_medium	v1	Epithelial cell|Epithelial cell of gingiva	1
+azimuth_medium	v1	Epithelial cell|Endocrine cell	1
+azimuth_medium	v1	Neuron|Neuron of retina|Rod cell	1
+azimuth_medium	v1	Immune cell|Erythrocyte/Megakaryocyte|Red blood cell	1
+azimuth_medium	v1	Immune cell|Hematopoietic precursor cell|CLP	1
+azimuth_medium	v1	Immune cell|Erythrocyte/Megakaryocyte|Red blood cell|Erythroblast|Early SOX4+ erythroblast	1
+azimuth_medium	v1	Immune cell|Hematopoietic precursor cell|HSC	1
+azimuth_medium	v1	Immune cell|Hematopoietic precursor cell|MEP	1
+azimuth_medium	v1	Immune cell|Erythrocyte/Megakaryocyte|Red blood cell|Erythroblast|Intermediate EPCAM+ erythroblast	1
+azimuth_medium	v1	Perivascular cell|Cycling perivascular cell	1
+azimuth_medium	v1	Epithelial cell|Epithelial cell of lung|AT1	1
+azimuth_medium	v1	Immune cell|Cycling immune cell	1
+azimuth_medium	v1	Immune cell|Myeloid cell|Osteoclast	1
+azimuth_medium	v1	Immune cell|Myeloid cell|Monocyte/DC	1
+azimuth_medium	v1	Epithelial cell|Epithelial cell of kidney|Renal epithelial cell - Loop of Henle	1
+azimuth_medium	v1	Epithelial cell|Epithelial cell of kidney|Renal epithelial cell - distal tubules	1
+azimuth_medium	v1	Epithelial cell|Epithelial cell of kidney|Renal epithelial cell - proximal tubules	1
+azimuth_medium	v1	Muscle cell|Cardiomyocyte|Atrial cardiomyocyte	1
+azimuth_medium	v1	Epithelial cell|Epithelial cell of kidney|Podocyte	1
+azimuth_medium	v1	Epithelial cell|Epithelial cell of kidney|Type A intercalated cell	1
+azimuth_medium	v1	Epithelial cell|Epithelial cell of kidney|Type B intercalated cell	1
+azimuth_medium	v1	Neuron|Neuron of retina|Amacrine cell	1
+azimuth_medium	v1	Neuron|Neuron of retina|Bipolar cell|Cone-OFF-bipolar cell	1
+azimuth_medium	v1	Neuron|Neuron of retina|Bipolar cell|Cone-ON-bipolar cell	1
+azimuth_medium	v1	Adipocyte	1
+azimuth_medium	v1	Unassigned	1
+azimuth_fine	v1	Fibroblast|CFD+MGP+ fibroblast	10
+azimuth_fine	v1	Germ cell|Spermatocyte	9
+azimuth_fine	v1	Epithelial cell|Epithelial cell of breast|Mammary luminal progenitor	6
+azimuth_fine	v1	Epithelial cell|Epithelial cell of skin|Keratinocyte	6
+azimuth_fine	v1	Epithelial cell|Epithelial cell of stomach|Surface mucous cell	6
+azimuth_fine	v1	Epithelial cell|Epithelial cell of testis|Leydig cell	6
+azimuth_fine	v1	Epithelial cell|Epithelial cell of bladder|Basal cell of bladder	5
+azimuth_fine	v1	Muscle cell|Skeletal muscle cell	5
+azimuth_fine	v1	Epithelial cell|Epithelial cell of ovary|Granulosa cell	5
+azimuth_fine	v1	Endothelial cell|Arterial EC	5
+azimuth_fine	v1	Perivascular cell|Pericyte	5
+azimuth_fine	v1	Epithelial cell|Epithelial cell of breast|Mammary basal cell	4
+azimuth_fine	v1	Endothelial cell|Capillary EC	4
+azimuth_fine	v1	Germ cell|Oocyte	4
+azimuth_fine	v1	Epithelial cell|Epithelial cell of breast|Mammary luminal cell	4
+azimuth_fine	v1	Immune cell|Hematopoietic precursor cell|MPP	4
+azimuth_fine	v1	Embryonic cell|Trophoblast|Cytotrophoblast	4
+azimuth_fine	v1	Epithelial cell|Epithelial cell of liver|cholangiocyte	4
+azimuth_fine	v1	Perivascular cell|Vascular smooth muscle cell	4
+azimuth_fine	v1	Immune cell|Myeloid cell|Granulocyte|Neutrophil|Neutrophil precursor	3
+azimuth_fine	v1	Epithelial cell|Epithelial cell of testis|Sertoli cell	3
+azimuth_fine	v1	Epithelial cell|Epithelial cell of pancreas|Pancreatic ductal cell	3
+azimuth_fine	v1	Epithelial cell|Epithelial cell of thymus|Medullary thymic epithelial cell	3
+azimuth_fine	v1	Immune cell|Myeloid cell|Monocyte|CD14 monocyte	3
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|T cell|CD8 T cell|Memory CD8 T cell|GZMK CD8 T cell	3
+azimuth_fine	v1	Immune cell|Hematopoietic precursor cell|GMP	3
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|ILC	3
+azimuth_fine	v1	Glial cell|Glial cell of brain|Astrocyte	3
+azimuth_fine	v1	Endothelial cell|Venous EC	3
+azimuth_fine	v1	Immune cell|Erythrocyte/Megakaryocyte|Red blood cell|Erythroblast|Late hemoglobin+ erythroblast	2
+azimuth_fine	v1	Epithelial cell|Epithelial cell of lung|Multiciliated cell	2
+azimuth_fine	v1	Muscle cell|Cardiomyocyte|Ventricular cardiomyocyte	2
+azimuth_fine	v1	Immune cell|Erythrocyte/Megakaryocyte|Megakaryocyte|Platelet	2
+azimuth_fine	v1	Immune cell|Lymphoid cell|B cell|B cell precursor|PreB cell	2
+azimuth_fine	v1	Glial cell|Glial cell of intestine	2
+azimuth_fine	v1	Glial cell|Glial cell of brain|Oligodendrocyte	2
+azimuth_fine	v1	Germ cell|Primordial germ cell	2
+azimuth_fine	v1	Epithelial cell|Epithelial cell of testis|Peritubular myoid cell	2
+azimuth_fine	v1	Immune cell|Lymphoid cell|B cell|B cell precursor|ProB cell	2
+azimuth_fine	v1	Immune cell|Lymphoid cell|B cell|Plasma cell	2
+azimuth_fine	v1	Fibroblast|CDCA7+ fibroblast	2
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|T cell|Double negative T cell	2
+azimuth_fine	v1	Fibroblast|CXCL+ fibroblast	2
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|NK cell|CD56 NK cell	2
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|T cell|CD4 T cell|Treg cell	2
+azimuth_fine	v1	Fibroblast|MDK+NREP+ fibroblast	2
+azimuth_fine	v1	Fibroblast|Metallothionein+ fibroblast	2
+azimuth_fine	v1	Epithelial cell|Epithelial cell of lung|Alveolar epithelial cell|AT2	2
+azimuth_fine	v1	Embryonic cell|Trophoblast|Extravillous trophoblast	2
+azimuth_fine	v1	Embryonic cell|Trophoblast|Syncytiotrophoblast	2
+azimuth_fine	v1	Neuron|Neuron of brain|Inhibitory neuron|MGE-derived inhibitory neuron|SST inhibitory neuron	2
+azimuth_fine	v1	Epithelial cell|Epithelial cell of intestine|Enterocyte	2
+azimuth_fine	v1	Neuron|Neuron of brain|Excitatory neuron|Cortical excitatory neuron|Upper-layer excitatory neuron|L2/3 excitatory neuron	2
+azimuth_fine	v1	Immune cell|Myeloid cell|Macrophage|LYVE1 macrophage	2
+azimuth_fine	v1	Epithelial cell|Epithelial cell of liver|Hepatocyte	2
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|Cycling T/NK cell|Cycling T cell	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|NK cell|CD16 NK cell	1
+azimuth_fine	v1	Neuron|Neuron of brain|Inhibitory neuron|PVALB inhibitory neuron	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|NK cell|Tissue-resident NK cell	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|T cell|Agonist T cell	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|T cell|CD4 T cell|GZMK cytotoxic CD4 T cell	1
+azimuth_fine	v1	Neuron|Neuron of brain|Inhibitory neuron|Midbrain-derived inhibitory neuron	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|T cell|CD4 T cell|KLRB1 cytotoxic CD4 T	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|T cell|CD4 T cell|Memory CD4 T cell	1
+azimuth_fine	v1	Neuron|Neuron of brain|Inhibitory neuron|Medium spiny neurons|Eccentric medium spiny neuron	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|T cell|CD4 T cell|Naive CD4 T cell	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|T cell|CD4 T cell|Tfh cell	1
+azimuth_fine	v1	Neuron|Neuron of brain|Inhibitory neuron|Medium spiny neurons|D2 medium spiny neuron	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|T cell|CD8 T cell|CD8aa+ T cell	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|T cell|CD8 T cell|Memory CD8 T cell|CXCL13 exhausted CD8 T cell	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|T cell|CD8 T cell|Memory CD8 T cell|GZMB CD8 T cell	1
+azimuth_fine	v1	Neuron|Neuron of brain|Inhibitory neuron|Medium spiny neurons|D1 medium spiny neuron	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|T cell|CD8 T cell|Memory CD8 T cell|KLRB1 CD8 T cell	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|T cell|CD8 T cell|Naive CD8 T cell	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|T cell|Cycling DN/DP T cell	1
+azimuth_fine	v1	Neuron|Neuron of brain|Miscellaneous neuron|Lower rhombic lip-derived neuron	1
+azimuth_fine	v1	Immune cell|Hematopoietic precursor cell|MEP	1
+azimuth_fine	v1	Neuron|Neuron of retina|Bipolar cell|Cone-ON-bipolar cell	1
+azimuth_fine	v1	Immune cell|Hematopoietic precursor cell|MkP	1
+azimuth_fine	v1	Neuron|Neuron of retina|Bipolar cell|Cone-OFF-bipolar cell	1
+azimuth_fine	v1	Immune cell|Hematopoietic precursor cell|Pre-cDC	1
+azimuth_fine	v1	Immune cell|Hematopoietic precursor cell|Pre-pDC	1
+azimuth_fine	v1	Neuron|Neuron of retina|Amacrine cell	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|B cell|B cell precursor|Pre-ProB cell	1
+azimuth_fine	v1	Neuron|Neuron of brain|Miscellaneous neuron|Upper rhombic lip-derived neuron	1
+azimuth_fine	v1	Neuron|Neuron of brain|Miscellaneous neuron|Splatter neuron	1
+azimuth_fine	v1	Neuron|Neuron of brain|Excitatory neuron|Cortical excitatory neuron|Deep-layer excitatory neuron|L4 excitatory neuron	1
+azimuth_fine	v1	Doublet like cell|Fibroblast/Granulosa doublet like cell	1
+azimuth_fine	v1	Endothelial cell|Lymphatic EC	1
+azimuth_fine	v1	Endothelial cell|Endothelial‑mesenchymal transition EC	1
+azimuth_fine	v1	Endothelial cell|Endocardial cell	1
+azimuth_fine	v1	Endothelial cell|Cycling EC	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|B cell|Cycling B	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|B cell|Germinal center B cell	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|B cell|Naive B cell	1
+azimuth_fine	v1	Neuron|Neuron of brain|Excitatory neuron|Cortical excitatory neuron|Deep-layer excitatory neuron|L5 excitatory neuron	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|Cycling T/NK cell	1
+azimuth_fine	v1	Neuron|Neuron of brain|Miscellaneous neuron|Mammillary body neuron	1
+azimuth_fine	v1	Neuron|Neuron of brain|Excitatory neuron|PLCH1 L4/5 excitatory neuron	1
+azimuth_fine	v1	Immune cell|Myeloid cell|Macrophage|Cycling macrophage	1
+azimuth_fine	v1	Immune cell|Myeloid cell|Macrophage|DIAPH3+ macrophage	1
+azimuth_fine	v1	Immune cell|Hematopoietic precursor cell|LMPP	1
+azimuth_fine	v1	Immune cell|Myeloid cell|Macrophage|M1 macrophage	1
+azimuth_fine	v1	Immune cell|Myeloid cell|Macrophage|Tissue resident macrophage|Alveolar macrophage	1
+azimuth_fine	v1	Neuron|Neuron of brain|Excitatory neuron|Hippocampal excitatory neurons|Hippocampal dentate gyrus neuron	1
+azimuth_fine	v1	Neuron|Neuron of brain|Excitatory neuron|Hippocampal excitatory neurons|Hippocampal CA4 neuron	1
+azimuth_fine	v1	Immune cell|Myeloid cell|Macrophage|Tissue resident macrophage|Hofbauer cell	1
+azimuth_fine	v1	Immune cell|Myeloid cell|Macrophage|Tissue resident macrophage|Microglia	1
+azimuth_fine	v1	Neuron|Neuron of brain|Inhibitory neuron|Cerebellar inhibitory neuron|SCGN inhibitory neuron	1
+azimuth_fine	v1	Neuron|Neuron of brain|Excitatory neuron|Hippocampal excitatory neurons|Hippocampal CA1-3 neuron	1
+azimuth_fine	v1	Immune cell|Myeloid cell|Monocyte|CD14/CD16 monocyte	1
+azimuth_fine	v1	Immune cell|Myeloid cell|Monocyte|CD16 monocyte	1
+azimuth_fine	v1	Neuron|Neuron of brain|Excitatory neuron|Cortical excitatory neuron|Deep-layer excitatory neuron|L5/6 excitatory neuron	1
+azimuth_fine	v1	Immune cell|Myeloid cell|Monocyte|Placenta CAMP+ monocyte	1
+azimuth_fine	v1	Immune cell|Myeloid cell|Monocyte|Placenta defensin+ monocyte	1
+azimuth_fine	v1	Immune cell|Myeloid cell|Osteoclast	1
+azimuth_fine	v1	Muscle cell|Cardiomyocyte|Atrial cardiomyocyte	1
+azimuth_fine	v1	Neuron|Neuron of brain|Excitatory neuron|Cortical excitatory neuron|Deep-layer excitatory neuron|TSHZ2 L4/5 excitatory neuron	1
+azimuth_fine	v1	Neuron|Neuron of brain|Excitatory neuron|Cortical excitatory neuron|Deep-layer excitatory neuron|L6 excitatory neuron	1
+azimuth_fine	v1	Neuron|Neuron of brain|Excitatory neuron|Cortical excitatory neuron|Deep-layer excitatory neuron|L5b excitatory neuron	1
+azimuth_fine	v1	Immune cell|Myeloid cell|Monocyte/DC	1
+azimuth_fine	v1	Neuron|Neuron of brain|Inhibitory neuron|Cerebellar inhibitory neuron|PAX2 inhibitory neuron	1
+azimuth_fine	v1	Neuron|Neuron of brain|Inhibitory neuron|CXCL14 inhibitory neuron	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|T cell|Double positive T cell	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|T cell|INF-activated T cell	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|T cell|MAIT cell	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|T cell|Memory T cell	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|T cell|Naive T cell	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|T cell|abT (entry) cell	1
+azimuth_fine	v1	Immune cell|Lymphoid cell|T/NK cell|T cell|gdT cell	1
+azimuth_fine	v1	Immune cell|Myeloid cell|Cycling myeloid cell|G2/M phase myeloid cell	1
+azimuth_fine	v1	Neuron|Neuron of brain|Excitatory neuron|Pyramidal neuron	1
+azimuth_fine	v1	Immune cell|Myeloid cell|Dendritic cell|ASDC	1
+azimuth_fine	v1	Immune cell|Myeloid cell|Dendritic cell|cDC|cDC1	1
+azimuth_fine	v1	Immune cell|Myeloid cell|Dendritic cell|cDC|cDC2	1
+azimuth_fine	v1	Neuron|Neuron of brain|Excitatory neuron|Amygdala excitatory neuron	1
+azimuth_fine	v1	Immune cell|Myeloid cell|Dendritic cell|mregDC	1
+azimuth_fine	v1	Immune cell|Myeloid cell|Dendritic cell|pDC	1
+azimuth_fine	v1	Immune cell|Myeloid cell|Granulocyte|Mast cell	1
+azimuth_fine	v1	Neuron|Neuron of brain|Inhibitory neuron|CGE-derived inhibitory neuron|VIP inhibitory neuron	1
+azimuth_fine	v1	Immune cell|Myeloid cell|Granulocyte|Neutrophil	1
+azimuth_fine	v1	Neuron|Neuron of brain|Inhibitory neuron|CGE-derived inhibitory neuron|SV2C inhibitory neuron	1
+azimuth_fine	v1	Neuron|Neuron of brain|Excitatory neuron|Thalamic excitatory neuron	1
+azimuth_fine	v1	Immune cell|Myeloid cell|Cycling myeloid cell|S phase myeloid cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of intestine|Paneth cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of intestine|Squamous epithelial cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of intestine|Transit-amplifying cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of intestine|Tuft cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of kidney|Renal epithelial cell - Loop of Henle	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of kidney|Renal epithelial cell - distal tubules	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of kidney|Renal epithelial cell - proximal tubules	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of kidney|Renal intercalated cell|Podocyte	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of kidney|Renal intercalated cell|Type A intercalated cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of kidney|Renal intercalated cell|Type B intercalated cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of lung|Aerocyte	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of lung|Airway basal cell	1
+azimuth_fine	v1	Neuron|Neuron of retina|Bipolar cell|PCP4L1+ bipolar cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of lung|Club cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of lung|Neuroendocrine cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of lung|Pulmonary ionocyte	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of ovary|AFP+ epithelial cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of ovary|CLDN3+ epithelial cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of ovary|GABRP+ epithelial cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of pancreas|Acinar cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of pancreas|Alpha cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of pancreas|Beta cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of pancreas|Epsilon cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of pancreas|Metallothionein+ epithelial cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of pancreas|PP cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of skin|Merkel cell carcinoma enriched epithelial cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of lung|Alveolar epithelial cell|AT1	1
+azimuth_fine	v1	Embryonic cell|Trophoblast|INF-activated trophoblast	1
+azimuth_fine	v1	Neuron|Neuron of retina|Bipolar cell|Rod-bipolar cell	1
+azimuth_fine	v1	Endothelial cell|Tip EC	1
+azimuth_fine	v1	Unassigned	1
+azimuth_fine	v1	Adipocyte	1
+azimuth_fine	v1	Neuron|Neuron of retina|Cone cell	1
+azimuth_fine	v1	Neuron|Neuron of retina|Ganglion cell	1
+azimuth_fine	v1	Neuron|Neuron of retina|Horizontal cell	1
+azimuth_fine	v1	Neuron|Neuron of retina|Rod cell	1
+azimuth_fine	v1	Perivascular cell|Cycling perivascular cell	1
+azimuth_fine	v1	Embryonic cell|Mesodermal cell|ZEB2+ mesoderm	1
+azimuth_fine	v1	Epithelial cell|Endocrine cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of adrenal gland|Capsular cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of intestine|Microfold cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of adrenal gland|Steroidogenic cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of adrenal gland|Sympathoadrenal cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of adrenal gland|Sympathoblast	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of breast|Lactocyte	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of eye|Ciliary body cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of eye|Corneal epithelial cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of eye|Epithelial cell of conjunctiva	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of eye|Eye melanocyte	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of eye|Retinal pigment epithelial cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of gingiva|Melanocyte	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of intestine|Colonocyte	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of intestine|Enteroendocrine cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of intestine|Goblet cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of adrenal gland|Chromaffin cell	1
+azimuth_fine	v1	Fibroblast|IGFBP6+APOD+ fibroblast	1
+azimuth_fine	v1	Fibroblast|IGFBP6+SFRP4+ fibroblast	1
+azimuth_fine	v1	Fibroblast|KCNN3+ fibroblast	1
+azimuth_fine	v1	Fibroblast|MMP1+ fibroblast	1
+azimuth_fine	v1	Fibroblast|Mesenchymal stromal cell	1
+azimuth_fine	v1	Fibroblast|Myofibroblast	1
+azimuth_fine	v1	Fibroblast|NR4A3 fibroblast	1
+azimuth_fine	v1	Fibroblast|PCOLCE2 fibroblast	1
+azimuth_fine	v1	Fibroblast|PLA2G2A+IGFBP4+APOC1+ fibroblast	1
+azimuth_fine	v1	Fibroblast|PLAC9+ fibroblast	1
+azimuth_fine	v1	Fibroblast|POSTN fibroblast	1
+azimuth_fine	v1	Fibroblast|RNASE1+ fibroblast	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of stomach|Chief cell	1
+azimuth_fine	v1	Fibroblast|SPARCL1+ fibroblast	1
+azimuth_fine	v1	Fibroblast|TCIM+NRG1+ fibroblast	1
+azimuth_fine	v1	Fibroblast|THY1+ fibroblast	1
+azimuth_fine	v1	Fibroblast|TNC fibroblast	1
+azimuth_fine	v1	Fibroblast|WISP2+ fibroblast	1
+azimuth_fine	v1	Glial cell|Muller glia	1
+azimuth_fine	v1	Immune cell|Cycling immune cell	1
+azimuth_fine	v1	Immune cell|Erythrocyte/Megakaryocyte|Red blood cell|Erythroblast|Early SOX4+ erythroblast	1
+azimuth_fine	v1	Immune cell|Erythrocyte/Megakaryocyte|Red blood cell|Erythroblast|Intermediate EPCAM+ erythroblast	1
+azimuth_fine	v1	Immune cell|Erythrocyte/Megakaryocyte|Red blood cell|Fetal HBG+ erythrocyte	1
+azimuth_fine	v1	Immune cell|Hematopoietic precursor cell|CLP	1
+azimuth_fine	v1	Immune cell|Hematopoietic precursor cell|EoBaMa Progenitor	1
+azimuth_fine	v1	Immune cell|Hematopoietic precursor cell|HSC	1
+azimuth_fine	v1	Fibroblast|SCN7A fibroblast	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of stomach|Delta cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of stomach|Enterochromaffin cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of stomach|SCGB2A1+ endocrine cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of testis|Luminal cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of testis|Sertoli and Interstitial cell common progenitor	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of testis|Supporting-like PAX8+ cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of thymus|Cortical thymic epithelial cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of thymus|Cycling thymic epithelial cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of thymus|Thymic ciliated cell	1
+azimuth_fine	v1	Epithelial cell|Epithelial cell of thymus|Thymic myoid cell	1
+azimuth_fine	v1	Epithelial cell|Mesothelial cell|CRABP1+ mesothelial cell	1
+azimuth_fine	v1	Epithelial cell|Mesothelial cell|Cycling mesothelial cell	1
+azimuth_fine	v1	Epithelial cell|Mesothelial cell|GATA4+ mesothelial cell	1
+azimuth_fine	v1	Fibroblast|IGFBP1+ fibroblast	1
+azimuth_fine	v1	Fibroblast|Adipose ITLN1 fibroblast	1
+azimuth_fine	v1	Fibroblast|C2orf40+ fibroblast	1
+azimuth_fine	v1	Fibroblast|C3+ fibroblast	1
+azimuth_fine	v1	Fibroblast|CCL11+ fibroblast	1
+azimuth_fine	v1	Fibroblast|CCL2+SFRP2+ fibroblast	1
+azimuth_fine	v1	Fibroblast|CD55+SEMA3C+ fibroblast	1
+azimuth_fine	v1	Fibroblast|CLU+ fibroblast	1
+azimuth_fine	v1	Fibroblast|Cycling fibroblast	1
+azimuth_fine	v1	Fibroblast|F3+ fibroblast	1
+azimuth_fine	v1	Fibroblast|FBLN2+APOD+ fibroblast	1
+azimuth_fine	v1	Fibroblast|FRZB+ fibroblast	1
+azimuth_fine	v1	Fibroblast|G0S2+PPP1R14A+ fibroblast	1
+azimuth_fine	v1	Fibroblast|GREB1+ fibroblast	1
+azimuth_fine	v1	Fibroblast|ANGPTL7+NRP2+ fibroblast	1
+added_in_v1	v1	Epithelial cell|Epithelial cell of lung|Pulmonary ionocyte	1
+added_in_v1	v1	Unassigned	1
