@@ -14,4 +14,4 @@ conda activate pan-human-azimuth
 
 ## Usage
 
-Run the scripts in `Python/` in order (`00` through `09`). Outputs go to `tables/`.
+Run the scripts in `Python/` in order (`00` through `10`). Outputs go to `tables/`.
